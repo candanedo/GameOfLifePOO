@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'GameOfLife'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2018-09-25'
   s.summary     = "Conway´s Game of Life"
   s.description = "This is the new gem for the Game of Life OOP"

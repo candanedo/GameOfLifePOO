@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'GameOfLife'
-  s.version     = '1.0.1'
-  s.date        = '2018-09-25'
-  s.summary     = "Conway´s Game of Life"
-  s.description = "This is the new gem for the Game of Life OOP"
+  s.version     = '1.0.2'
+  s.date        = '2018-09-27'
+  s.summary     = "Conway´s Game of Life!"
+  s.description = "A simple Game of Life gem"
   s.authors     = ["Eduardo Javier Candanedo Contreras"]
   s.email       = 'eduardo.candanedo.94@gmail.com'
   s.files       = [

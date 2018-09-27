@@ -5,5 +5,5 @@ class Game
                 game.start
         end
 end
-g = Game.new
-g.game_on
+#g = Game.new
+#g.game_on

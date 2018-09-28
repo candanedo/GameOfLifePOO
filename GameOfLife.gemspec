@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'GameOfLife'
-  s.version     = '1.0.3'
+  s.version     = '1.0.4'
   s.date        = '2018-09-27'
   s.summary     = "Conway´s Game of Life!"
   s.description = "A simple Game of Life gem"
@@ -9,7 +9,8 @@ Gem::Specification.new do |s|
   s.files       = [
   					"lib/GameOfLife.rb",
   					"lib/lib/grid.rb",
-  					"lib/lib/interface.rb"
+  					"lib/lib/interface.rb",
+                                        "lib/lib/validations.rb"
   				]
   s.license       = 'MIT'
 end
